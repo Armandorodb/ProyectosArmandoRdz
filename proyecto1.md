@@ -1,9 +1,10 @@
 ---
 title: Ejercicio de Linear Regression (Regresión Lineal):
 ---
----
-Ejercicio de Linear Regression (Regresión Lineal):
----
+
+**Ejercicio de Linear Regression (Regresión Lineal):**   
+
+   
 En este proyecto se busca realizar un ejercicio de regresión lineal con la intención de explorar la relación entre el producto interno bruto
 (GDP), por sus siglas en inglés y la escala de puntajes del "World Happiness Report" (WHR) el cual mide la felicidad de las personas por país 
 en una escala del 1 al 10.
