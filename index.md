@@ -5,5 +5,5 @@ title: ¡Bienvenido mi sumario de proyectos de inteligencia artificial!
 así que siéntete libre de navegar a través de los diferentes proyectos que tengo publicados y comentados, si tienes alguna duda
 o motivo por el cual contactarme puedes hacerlo. 
 
-[-Linear Regression](proyecto1.md)
-[-Linear Regression](proyecto2.md)
+**[-Linear Regression](proyecto1.md)** 
+**[-Linear Regression](proyecto2.md)**  
