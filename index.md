@@ -6,4 +6,4 @@ así que siéntete libre de navegar a través de los diferentes proyectos que te
 o motivo por el cual contactarme puedes hacerlo. 
 
 [-Linear Regression](proyecto1.md)
-
+[-Linear Regression](proyecto2.md)
