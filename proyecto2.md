@@ -11,7 +11,7 @@ Se dividen los datos en datos de entrenamiento y de prueba, se encuentran las be
 Los datos fueron originalmente publicados por la NASA:    
 https://ntrs.nasa.gov/api/citations/19890016302/downloads/19890016302.pdf  
 
-Y fueron obtenidos de UCI MACHINE LEARNING REPOSITORY:
+Y fueron obtenidos de UCI MACHINE LEARNING REPOSITORY:  
 https://archive.ics.uci.edu/dataset/291/airfoil+self+noise  
 
 La base de datos cuenta con la siguiente información:   
@@ -25,6 +25,6 @@ Dichos datos fueron modificados para ser más fáciles de trabajar, si quieres r
 
 
 
--[Ver la regresión lienal multiplel](RegresionMultiple.html)    
+-[Ver la regresión lineal multiple](RegresionMultiple.html)    
 -[Descargar archivo CSV (La base de datos)](data1_3.csv)    
 -[Descargar archivo Jupyter Notebook (.ipynb)](RegresionMultiple.ipynb)
