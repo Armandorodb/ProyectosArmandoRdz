@@ -6,10 +6,10 @@ title:
 En este ejercicio seleccionaré las diferentes variables de una base de datos de vinos para poder determinar la calidad de algún vino, para esto hare uso de librerías especializadas. Se realizará un proceso de selección de características hacia adelante y de eliminación hacia atrás en una regresión lineal múltiple.
 
 Los datos originales se obtuvieron de UCI Machine Learning Repository:   
-https://archive.ics.uci.edu/dataset/186/wine+quality
+[https://archive.ics.uci.edu/dataset/186/wine+quality](https://archive.ics.uci.edu/dataset/186/wine+quality)
 
 Y se reportaron originalmente en "Modeling wine preferences by data mining from physicochemical properties" en la revista "Decision Support Systems":  
-https://www.sciencedirect.com/science/article/abs/pii/S0167923609001377?via%3Dihub
+[https://www.sciencedirect.com/science/article/abs/pii/S0167923609001377?via%3Dihub](https://www.sciencedirect.com/science/article/abs/pii/S0167923609001377?via%3Dihub)
 
 Las ligas se encuentran si quieres verificar las bases de datos, si deseas probar la funcionalidad del código usa la base de datos que se proporciona como descargable ya que los datos fueron modificados para trabajar con ellos de manera más sencilla.
 
