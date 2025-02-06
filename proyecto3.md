@@ -31,6 +31,6 @@ decímetro cúbico.
 * “calidad”. Mediana de la calidad otorgada por al menos tres catadores, en escala del 0
 (muy malo) al 10 (excelente)  
 
--[Ver la selección de características](seleccionVariables.html)    
--[Descargar archivo CSV (La base de datos)](data1_4.csv)    
--[Descargar archivo Jupyter Notebook (.ipynb)](seleccionVariables.ipynb)
+-[Ver la selección de características](SeleccionVariables.html)    
+-[Descargar archivo CSV (La base de datos)](Datos1_4.csv)    
+-[Descargar archivo Jupyter Notebook (.ipynb)](SeleccionVariables.ipynb)
