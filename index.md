@@ -9,3 +9,4 @@ o motivo por el cual contactarme puedes hacerlo.
 
 **[-Regresión Lineal](proyecto1.md)**    
 **[-Regresión Lineal Múltiple](proyecto2.md)**  
+**[-Selección de características](proyecto3.md)**  
