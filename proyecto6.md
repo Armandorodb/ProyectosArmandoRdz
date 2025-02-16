@@ -10,4 +10,6 @@ actividad 48 horas antes del domingo a medianoche.
    
 * “Calificacion”. Calificación obtenida, en una escala entre el 0 y el 110.
 
-
+-[Ver la regresión no lineal](RegresionNoLineal.html)    
+-[Descargar archivo CSV (La base de datos)](data_1_6.csv)    
+-[Descargar archivo Jupyter Notebook (.ipynb)](RegresionNoLineal.ipynb)
