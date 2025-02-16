@@ -10,5 +10,5 @@ o motivo por el cual contactarme puedes hacerlo.
 **[-Regresión Lineal](proyecto1.md)**    
 **[-Regresión Lineal Múltiple](proyecto2.md)**  
 **[-Selección de características](proyecto3.md)**  
-**[-Solución de problemas de una base de datos](proyecto4.md)**
+**[-Solución de problemas de una base de datos](proyecto4.md)**   
 **[-Regresión no lineal (Polinomial, segmetada y KNN)](proyecto6.md)**
