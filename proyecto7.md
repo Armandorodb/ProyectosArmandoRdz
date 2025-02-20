@@ -27,4 +27,7 @@ Creo que esta información tiene potencial para generar una regresión lineal ya
 
 La base de datos tenía algunos valores de la variable de interés como NaN, se eliminaron esas filas ya que considero que cualquier manera de conseguir ese valor añadiría incertidumbre a nuestro modelo. Estaríamos construyendo nuestro modelo en terreno que no es firme.
 
+-[Ver el proyecto](proyecto1_1.html)  
+-[Descargar la base de datos](auto-mpg.data-original)  
+-[Descargar archivo Jupyter Notebook (.ipynb)](proyecto1_1.ipynb)
 
