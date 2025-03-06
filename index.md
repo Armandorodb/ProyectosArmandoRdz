@@ -12,5 +12,5 @@ o motivo por el cual contactarme puedes hacerlo.
 **[-Selección de características](proyecto3.md)**  
 **[-Solución de problemas de una base de datos](proyecto4.md)**   
 **[-Regresión no lineal (Polinomial, segmetada y KNN)](proyecto6.md)**    
-**[-Rendimiento del combustible en autos comerciales)](proyecto7.md)**   
+**[-Rendimiento del combustible en autos comerciales](proyecto7.md)**   
 **[-Regresión logistica multiple](proyecto8.md)**
