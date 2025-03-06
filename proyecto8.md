@@ -20,6 +20,6 @@ La base de datos tenía algunos valores de la variable de interés como NaN, se 
 
 Ajustaremos los datos para poder realizar nuestro objetivo.
 
--[Ver la regresión logistica](RegresionLogistica.html)  
+-[Ver la regresión logistica](RegresionLogistica.html)    
 -[Descargar la base de datos](auto2-mpg.data-original)  
 -[Descargar archivo Jupyter Notebook (.ipynb)](RegresionLogistica.ipynb)
