@@ -1,7 +1,3 @@
----
-title: Ejercicio de Linear Regression (Regresión Lineal):
----
-
 **Ejercicio de Linear Regression (Regresión Lineal):**   
 
    
