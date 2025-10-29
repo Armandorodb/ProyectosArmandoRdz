@@ -14,3 +14,4 @@ o motivo por el cual contactarme puedes hacerlo.
 **[-Rendimiento del combustible en autos comerciales](proyecto7.md)**   
 **[-Regresión logistica multiple](proyecto8.md)**     
 **[-Árboles de decisión y función discriminante](proyecto9.md)**
+YAP
