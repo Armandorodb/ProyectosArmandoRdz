@@ -1,6 +1,3 @@
-
-
-
 # Rendimiento del combustible en autos comerciales.
 
 Realizaremos un análisis de diferentes vehículos para poder realizar inferencias sobre su rendimiento de combustible, específicamente la cantidad de millas que pueden recorrer por galón de gasolina, además de las inferencias buscamos realizar un modelo que sea capaz de predecir con cierta certeza la cantidad de millas que recorre un auto con conocer cierta información de este.   
