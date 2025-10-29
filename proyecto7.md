@@ -1,7 +1,5 @@
 
----
-title: Rendimiento del combustible en autos comerciales.
----
+
 
 # Rendimiento del combustible en autos comerciales.
 
