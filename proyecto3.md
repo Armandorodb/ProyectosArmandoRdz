@@ -1,6 +1,3 @@
----
-title: 
----
 # Selección de características 
 
 En este ejercicio seleccionaré las diferentes variables de una base de datos de vinos para poder determinar la calidad de algún vino, para esto hare uso de librerías especializadas. Se realizará un proceso de selección de características hacia adelante y de eliminación hacia atrás en una regresión lineal múltiple.
